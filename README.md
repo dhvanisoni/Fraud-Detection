@@ -1,9 +1,7 @@
 ## Bank Transaction Fraud Detection
 
 ### Overview
-Fraudulent bank transactions are a significant issue for financial institutions and customers alike. This project aims to efficiently flag potentially fraudulent transactions by using machine learning techniques, including Isolation Forest for anomaly detection and Random Forest for fraud classification, to build a robust fraud detection system.
-
-### Dataset
+Fraudulent bank transactions are a significant issue for financial institutions and customers alike. This project aims to efficiently flag potentially fraudulent transactions by using machine learning techniques, including Isolation Forest for anomaly detection and Random Forest for fraud classification, to build a robust fraud detection system. 
 The dataset includes bank transaction records with multiple features such as transaction amount, type, time and user information.
 
 ### Project Workflow
